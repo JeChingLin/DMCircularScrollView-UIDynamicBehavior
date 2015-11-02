@@ -1,0 +1,3 @@
+[submodule "DMCircularScrollView"]
+	path = DMCircularScrollView
+	url = https://github.com/malcommac/DMCircularScrollView.git
